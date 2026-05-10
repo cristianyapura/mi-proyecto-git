@@ -1,1 +1,1 @@
-SELECT id, nombre FROM Usuarios; -- Versión de la rama Conflicto
+SELECT id, nombre,rol FROM Usuarios; -- Versión de la rama Conflicto
