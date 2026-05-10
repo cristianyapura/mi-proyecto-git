@@ -1,1 +1,1 @@
-SELECT id, nombres,rol,hora FROM Usuarios; -- VersiÃ³n de la rama Conflicto
+SELECT id, nombres,rol,fecha,hora FROM Usuarios;-- Elegí esta versión y borré las marcas de Git
