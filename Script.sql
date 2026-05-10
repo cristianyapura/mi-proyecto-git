@@ -1,1 +1,1 @@
-SELECT * FROM Usuarios; -- Versión de la rama Principal
+SELECT id, nombre FROM Usuarios; -- Versión de la rama Conflicto
